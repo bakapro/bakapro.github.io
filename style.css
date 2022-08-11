@@ -1,24 +1,42 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #12222222;
+  background-color: #212121;
 }
 #projects {
-  background-color: #12222222;
+  background-color: #212121;
 }
 #about {
   padding-top: 5rem;
+  color: aliceblue;
 }
 #projects {
   padding-top: 5rem;
+  color: aliceblue;
 }
-#pp {
+#PrivacyPolicy {
   padding-top: 5rem;
+  color: aliceblue;
 }
-#tnc {
+#terms {
   padding-top: 5rem;
+  color: aliceblue;
+}
+#home {
+  color: #fff;
+}
+.body {
+  background-color: #0a0a0a;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .artikel {
-  padding: 4rem;
+  color: #f2f2f2;
+  padding: 3rem;
+  background-color: #212121;
+  border-radius: 2rem;
 }
-.card {
+.card-text {
+  text-align: center;
+}
+#footer {
+  font-family: verdana;
 }
